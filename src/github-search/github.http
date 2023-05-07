@@ -1,0 +1,4 @@
+GET https://api.github.com/users/max
+Accept: application/json
+
+###
